@@ -37,7 +37,6 @@ Download and install **Python 3.8+** from [python.org](https://www.python.org/do
 ### Step 2 — Clone the Repository
 
 ```bash
-git clone https://github.com/YourUsername/Vortex-Advance-RAT.git
 cd abus_rat
 ```
 
